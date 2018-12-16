@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/07Marhal/main.cpp
+iostream
+-
+structures.h
+/Users/nickmarhal/CLionProjects/07Marhal/structures.h
+test.h
+/Users/nickmarhal/CLionProjects/07Marhal/test.h
+cassert
+-
+climits
+-
+
+/Users/nickmarhal/CLionProjects/07Marhal/matrix.cpp
+iostream
+-
+structures.h
+/Users/nickmarhal/CLionProjects/07Marhal/structures.h
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/07Marhal/structures.h
+
+/Users/nickmarhal/CLionProjects/07Marhal/test.h
+

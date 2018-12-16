@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/06Marhal/main.cpp
+sorting.h
+/Users/nickmarhal/CLionProjects/06Marhal/sorting.h
+
+/Users/nickmarhal/CLionProjects/06Marhal/sorting.cpp
+iostream
+-
+sorting.h
+/Users/nickmarhal/CLionProjects/06Marhal/sorting.h
+cassert
+-
+
+/Users/nickmarhal/CLionProjects/06Marhal/sorting.h
+iostream
+-
+cassert
+-
+algorithm
+-
+functional
+-
+random
+-
+

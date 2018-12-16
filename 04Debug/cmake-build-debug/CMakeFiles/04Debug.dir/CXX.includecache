@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/04Debug/agm.cpp
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/04Debug/agm.h
+
+/Users/nickmarhal/CLionProjects/04Debug/main.cpp
+iostream
+-
+agm.h
+/Users/nickmarhal/CLionProjects/04Debug/agm.h
+

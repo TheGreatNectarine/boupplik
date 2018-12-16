@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/01Marhal/arctan.cpp
+helpers.h
+/Users/nickmarhal/CLionProjects/01Marhal/helpers.h
+cmath
+-
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/01Marhal/cosinus.cpp
+iostream
+-
+cmath
+-
+helpers.h
+/Users/nickmarhal/CLionProjects/01Marhal/helpers.h
+
+/Users/nickmarhal/CLionProjects/01Marhal/exponent.cpp
+helpers.h
+/Users/nickmarhal/CLionProjects/01Marhal/helpers.h
+iostream
+-
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/01Marhal/functions.h
+
+/Users/nickmarhal/CLionProjects/01Marhal/helpers.cpp
+
+/Users/nickmarhal/CLionProjects/01Marhal/helpers.h
+
+/Users/nickmarhal/CLionProjects/01Marhal/main.cpp
+iostream
+-
+functions.h
+/Users/nickmarhal/CLionProjects/01Marhal/functions.h
+cmath
+-
+

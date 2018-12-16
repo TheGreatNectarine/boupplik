@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Practice10.dir/main.cpp.o CMakeFiles/Practice10.dir/point.cpp.o CMakeFiles/Practice10.dir/Parameters.cpp.o  -o Practice10 

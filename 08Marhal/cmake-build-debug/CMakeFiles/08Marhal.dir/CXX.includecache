@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/08Marhal/fibonacci_rec.cpp
+
+/Users/nickmarhal/CLionProjects/08Marhal/ficonacci_rec.h
+
+/Users/nickmarhal/CLionProjects/08Marhal/main.cpp
+iostream
+-
+power_rec.h
+/Users/nickmarhal/CLionProjects/08Marhal/power_rec.h
+ficonacci_rec.h
+/Users/nickmarhal/CLionProjects/08Marhal/ficonacci_rec.h
+structures.h
+/Users/nickmarhal/CLionProjects/08Marhal/structures.h
+test.h
+/Users/nickmarhal/CLionProjects/08Marhal/test.h
+cassert
+-
+
+/Users/nickmarhal/CLionProjects/08Marhal/matrix.cpp
+iostream
+-
+structures.h
+/Users/nickmarhal/CLionProjects/08Marhal/structures.h
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/08Marhal/power_rec.cpp
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/08Marhal/power_rec.h
+
+/Users/nickmarhal/CLionProjects/08Marhal/structures.h
+
+/Users/nickmarhal/CLionProjects/08Marhal/test.h
+

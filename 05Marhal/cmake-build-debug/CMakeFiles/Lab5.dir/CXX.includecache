@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/05Marhal/main.cpp
+iostream
+-
+polynomial.h
+/Users/nickmarhal/CLionProjects/05Marhal/polynomial.h
+
+/Users/nickmarhal/CLionProjects/05Marhal/polynomial.cpp
+random
+-
+ctime
+-
+cassert
+-
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/05Marhal/polynomial.h
+

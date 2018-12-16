@@ -1,0 +1,15 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/nickmarhal/CLionProjects/KR_Marhal
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    DIMASICK/main.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: KR_Marhal
+CMake Error: Cannot determine link language for target "KR_Marhal".
+-- Generating done
+-- Build files have been written to: /Users/nickmarhal/CLionProjects/KR_Marhal/cmake-build-debug
